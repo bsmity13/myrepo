@@ -3,4 +3,4 @@ For GitHub workshop with lab
 
 This is my readme :)
 
-Here is a local change.
+Here is a change that agrees between local and remote.
